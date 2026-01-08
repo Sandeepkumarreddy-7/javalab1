@@ -23,6 +23,10 @@ class MyClass {
         System.out.println("Sum: " + result);
     }
 }
+```
+## output:
+
+![class mechanism](2a output.png)
 
 
 
