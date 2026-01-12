@@ -135,9 +135,10 @@ class BinarySearchMain {
 ##OUTPUT
 ![bianarysearch](3boutput.png)
 
-# Experiment 3a
+# Experiment 3c
 
-## AIM :constructor overloading
+## AIM :BUbble sort
+
 
 ``` java
 class BubbleSort {
