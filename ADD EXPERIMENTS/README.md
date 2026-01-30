@@ -99,4 +99,4 @@ class PerfectNumber {
 ```
 ## output:
 
-![Perfect Number](add4,png)
+![Perfect Number](add4.png)
