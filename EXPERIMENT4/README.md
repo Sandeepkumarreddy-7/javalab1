@@ -50,7 +50,7 @@ public class TestEmployee {
     public static void main(String[] args) {
 
         Employee emp1 = new Employee(
-                "Sai Karthik",
+                "Sandeep",
                 22,
                 450000.00,
                 2024,
